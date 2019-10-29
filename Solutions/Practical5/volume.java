@@ -38,7 +38,7 @@ public class volume
 				break;			
 		 	}
 			default:
-				System.out.println("Please check Yo input");
+				System.out.println("Please check your input");
 		}
 		
 		}while(c!=0);

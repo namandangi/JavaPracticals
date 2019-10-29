@@ -1,5 +1,5 @@
 import java.util.*;
-class one_3
+class one_three
 {
 	public static void main(String[] args)
 	{
@@ -11,7 +11,7 @@ class one_3
 		a=sc.nextInt();
 		b=sc.nextInt();
 		c=sc.nextInt();
-		if(d<0)
+		if((b*b-4*a*c)<0)
 		System.out.println("No real solution");
 		else
 		{
