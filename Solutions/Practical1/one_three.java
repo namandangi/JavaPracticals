@@ -11,8 +11,7 @@ public class one_three
 		a=sc.nextInt();
 		b=sc.nextInt();
 		c=sc.nextInt();
-		d = (b*b)-4*a*c;
-		if(d<0)
+		if((b*b-4*a*c)<0)
 		System.out.println("No real solution");
 		else
 		{
