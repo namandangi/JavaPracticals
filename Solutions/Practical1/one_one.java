@@ -21,7 +21,9 @@ class one_one
 		c = sc.nextInt();
 			switch(c)
 			{
+
 				case 0:break;
+
 				case 1:
 				{
 					System.out.println("\tThe sum is : "+(a+b));
@@ -39,6 +41,7 @@ class one_one
 				}
 				case 4:
 				{
+
 					if(b!=0)
 					System.out.println("\tThe sum is : "+(a/b));
 					else

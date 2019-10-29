@@ -1,10 +1,10 @@
 import java.util.*;
-class one_three
+public class one_three
 {
 	public static void main(String[] args)
 	{
 		int a,b,c;
-		double s1=0,s2=0;
+		double s1=0,s2=0,d=0;
 		Scanner sc =new Scanner(System.in);
 		System.out.println("Equation : ax^2+bx+c");
 		System.out.println("Enter a,b,c");

@@ -10,7 +10,7 @@ import java.io.*;
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         System.out.println("Enter your First Name : ");
         s = br.readLine();
-        System.out.println("Enter your First Name : ");
+        System.out.println("Enter your Last Name : ");
         lastName = br.readLine();
         String firstName = new String(s);
         StringBuffer sb = new StringBuffer(s);
