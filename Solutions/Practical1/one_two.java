@@ -1,5 +1,5 @@
 import java.util.*;
-public class one_2
+public class one_two
 {
 	public static void main(String args[])
 	{
